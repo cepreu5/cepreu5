@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 
 # Welcome, I've been expecting you.
 ![](./HelloWorld.svg)
+
+<h3 align="center">A beginner html and js enthusiast</h3>
+
+- 🔭 I’m currently working on **CX Extractor**
+
+- 🌱 I’m currently learning **html, css and js**
+
+- 💬 Ask me about **world's future**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></p>
