@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 -->
 
 # Welcome, I've been expecting you.
-![](./HelloWorld.svg)
 
-<h3 align="center">A beginner html and js enthusiast</h3>
+<h3 align="center">A beginner HTML and JS enthusiast</h3>
 
 - 🔭 I’m currently working on **CX Extractor**
 
-- 🌱 I’m currently learning **html, css and js**
+- 🌱 I’m currently learning **HTML, CSS and JS**
 
 - 💬 Ask me about **world's future**
 
