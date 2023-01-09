@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **world's future**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cepreu5&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cepreu5&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 <svg viewBox="0 0 128 128">
